@@ -7,4 +7,16 @@
     "keywords": ["wachtwoord"],
     "answer": "Helaas kunnen wij niks met inloggegevens van spelers. Deze acties liggen bij de speler en de ontwikkelaar. Je kunt de ontwikkelaar contacteren via de helpshift"
   },
+  {
+    "keywords": [["forum","mail""verificatie"]],
+    "answer": "Wanneer je je aanmeld op het forum krijg je een mail om je account te bevestigen. Indien je deze mail niet krijgt, kijk even in je SPAM-Folder, hier komen ze namelijk ook vaak te staan. Indien je de mail ook daar niet hebt. Stuur me even meer informatie. Dan ga ik je info delen met het GameTeam zodat zij met je mee kunnen kijken"
+  },
+  {
+    "keywords": ["gmail"],
+    "answer": "Helaas zijn er issues met het ontvangen van mails op gmail addressen. Deze issues zijn gemeld bij de ontwikkelaas. De ontwikkelaar is op zoek naar een oplossing"
+  },
+  {
+    "keywords": ["dank"],
+    "answer": "Indien je voldoende bent geholpen meld dit event terug. Dan kunnen we het ticket afsluiten. Indien er later nog iets is kun je ons altijd weer contacteren"
+  }
 ]
